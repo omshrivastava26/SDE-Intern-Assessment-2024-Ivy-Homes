@@ -20,7 +20,8 @@ It is a dictionary, whose *keys* are **Genres** and *values* are **lists of Movi
 And the Movie Data is Further a Dictionary, with *keys* **Name**, **Link** and **Reviews**.<br />
 **Name** and **Link** have *strings* as *values*. But **Reivews** are lists of Dictionary.<br />
 This dictionary consists data like *Rating*, *By*, *Date*, *Content* and *Upvotes*
-##Summary 
+
+## Summary 
 Considerations and Assumptions:
 Web Scraping: The code relies on web scraping techniques, which are subject to changes in the IMDb website's structure. Any modifications to the website might break the script, requiring updates.
 
